@@ -1,0 +1,22 @@
+{
+  "name": "lambdatest",
+  "version": "1.0.0",
+  "description": "this is a test",
+  "main": "app.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jadrum/testing-practice.git"
+  },
+  "author": "Justin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jadrum/testing-practice/issues"
+  },
+  "homepage": "https://github.com/jadrum/testing-practice#readme"
+}
