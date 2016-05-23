@@ -3,8 +3,9 @@
   "version": "1.0.0",
   "description": "this is a test",
   "main": "app.js",
-  "directories": {
-    "test": "test"
+  "dependencies": {
+    "express": "^4.13.3",
+    "request": "^2.65.0" 
   },
   "scripts": {
     "test": "mocha"

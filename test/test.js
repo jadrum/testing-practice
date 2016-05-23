@@ -1,6 +1,7 @@
-var request = require("request");
-    base_url = "http://localhost:3000/"
-    assert = require('assert')
+var request = require("request"),
+    base_url = "http://localhost:3000/",
+    helloWorld = require("../app.js"),
+    assert = require('assert');
 
 
 describe("Hello World Test", function() {
